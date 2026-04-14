@@ -21,10 +21,10 @@ Languages/Libraries/Frameowrks:
 
 Currently Learning:
 
-Java OOP
-Data Structures & Algorithms
-Git & GitHub
-Backend basics
+Java OOP  
+Data Structures & Algorithms  
+Git & GitHub  
+Backend basics  
 
 🚧 Projects
 
