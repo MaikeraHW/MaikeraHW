@@ -1,14 +1,14 @@
 👋 Hi there, I'm Maicon Wagner (Maikera)
 
-💻 Junior Developer | Problem Solver
-🌎 Based in SC, Brazil
-🚀 Currently learning: Java, Data Structures, Backend Development
-🎯 Goal: Become a strong full stack/software engineer
+💻 Junior Developer | Problem Solver  
+🌎 Based in SC, Brazil  
+🚀 Currently learning: Java, Data Structures, Backend Development  
+🎯 Goal: Become a strong full stack/software engineer  
 
-🧠 About Me
-🔭 I’m currently working on improving my programming skills
-🌱 Learning Java (OOP, Arrays, Collections, Streams)
-👶 Exploring software engineering from scratch
+🧠 About Me  
+🔭 I’m currently working on improving my programming skills  
+🌱 Learning Java (OOP, Arrays, Collections, Streams)  
+👶 Exploring software engineering from scratch  
 
 Languages/Libraries/Frameowrks:
 
