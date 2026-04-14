@@ -19,8 +19,6 @@ Languages/Libraries/Frameowrks:
     - Tailwind
     - Java (Loading)
 
-    ![Maikera's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikeraHW&show_icons=true&theme=radical)
-
 Currently Learning:
 
 Java OOP
@@ -36,8 +34,7 @@ Backend basics
 
 📫 Contact Me
 Email: wagner.maiconhenrique@gmail.com
-LinkedIn: https://www.linkedin.com/in/maicon-henrique-wagner-7b8b3538a/
-GitHub: https://github.com/YOUR_USERNAME
-⚡ Quote I Like
 
-“The best way to learn to code is to build things.”
+LinkedIn: https://www.linkedin.com/in/maicon-henrique-wagner-7b8b3538a/
+
+GitHub: https://github.com/MaikeraHW
