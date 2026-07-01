@@ -15,7 +15,7 @@ Languages/Libraries/Frameowrks:
     - HTML
     - CSS
     - JS
-    - React
+    - React + Typescript
     - Tailwind
     - Java (Loading)
 
@@ -33,6 +33,6 @@ Backend basics
 📫 Contact Me
 Email: wagner.maiconhenrique@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/maicon-henrique-wagner-7b8b3538a/
+LinkedIn: https://www.linkedin.com/in/maicon-henrique-wagner
 
 GitHub: https://github.com/MaikeraHW
